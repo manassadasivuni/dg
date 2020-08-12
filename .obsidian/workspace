@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "889684bfd2a0f52a",
+    "type": "split",
+    "children": [
+      {
+        "id": "63735397b43c656f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2020-08-12-the-extrovert-ideal.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1df48e8e36ba0cdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca9f072a961eb39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d90818e92cab2004",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "61f4978f347c7c0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9a0a7f0de1ee641",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33e8834652949166",
+    "type": "split",
+    "children": [
+      {
+        "id": "07fb6bed1d27372d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a41381ce342fce1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "aff06f0c14606511",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 507.3125,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_posts/2020-08-12-the-extrovert-ideal.md",
+    "tags.md",
+    "202007181335-extrovert-ideal.md",
+    "202008120807-tok-journal-entry-1-gender-bias.md",
+    "202008031019-invisible-women-introduction-the-default-male.md"
+  ]
+}

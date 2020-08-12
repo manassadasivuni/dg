@@ -1,0 +1,212 @@
+{
+  "theme": "moonstone",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": false,
+    "Markdown format importer": false,
+    "Word count": true,
+    "Custom CSS": true,
+    "Page preview": true,
+    "Daily notes": true,
+    "Random note": true,
+    "Slides": false,
+    "Audio recorder": true,
+    "Starred": true,
+    "Open with default app": true,
+    "Zettelkasten prefixer": true,
+    "Outline": false,
+    "Tag pane": true
+  },
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "labour",
+    "analyse",
+    "plagiarise",
+    "Programme",
+    "organisation",
+    "streetwear",
+    "focussed",
+    "realise",
+    "Globalisation",
+    "behaviour",
+    "organisations",
+    "Localising",
+    "Overallocation",
+    "overallocated",
+    "Underallocation",
+    "underallocated",
+    "organise",
+    "Insha",
+    "impactful",
+    "maximise",
+    "Shravie",
+    "Sasi",
+    "Ishi",
+    "Varsha",
+    "specialised",
+    "specialisation",
+    "Standardisation",
+    "Intrapreneurs",
+    "Organising",
+    "focusses",
+    "wifi",
+    "Kinesiotherapist",
+    "Macroeconomist",
+    "theorising",
+    "mimesis",
+    "wouldn",
+    "recognise",
+    "douchebag",
+    "organises",
+    "Maths",
+    "Barchester",
+    "Cumbrian",
+    "Seafoods",
+    "Tesco",
+    "Morrisons",
+    "Cumbria",
+    "Northumberland",
+    "organised",
+    "centres",
+    "emphasising",
+    "eustress",
+    "combatted",
+    "realising",
+    "stabilise",
+    "Personalised",
+    "excludable",
+    "defence",
+    "popularised",
+    "centre",
+    "Github",
+    "repo",
+    "socialise",
+    "labelled",
+    "favour",
+    "outsized",
+    "industrialise",
+    "globalisation",
+    "benefitted",
+    "penalised",
+    "maths",
+    "anaesthetic",
+    "industrialised",
+    "standardised",
+    "indoctrined",
+    "analysed",
+    "misallocated",
+    "Normalise",
+    "criticise",
+    "Gyanepsaa",
+    "Sarvajitt",
+    "Manas",
+    "Gyanepsaa",
+    "Aditya",
+    "Avkash",
+    "Sahith",
+    "Chitra",
+    "Vishwesh",
+    "lacklustre",
+    "quaternary",
+    "Honourable",
+    "telescreen",
+    "emphasised",
+    "programme",
+    "organisational",
+    "Minecraft",
+    "monetise",
+    "organising",
+    "Universalisation",
+    "Universalization",
+    "Criado",
+    "categorised",
+    "normalise",
+    "NGOs",
+    "thoughtcrime",
+    "realises",
+    "emphasises",
+    "forecasted",
+    "prioritise",
+    "maximising",
+    "realised",
+    "Ansoff",
+    "flavours",
+    "analytics",
+    "scrutinising",
+    "colour",
+    "miscalibration",
+    "likeable",
+    "destabilise",
+    "Sadasivuni",
+    "Ageing",
+    "dependants",
+    "stereotypically"
+  ],
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "Attachments",
+  "hotkeys": {
+    "workspace:toggle-pin": [],
+    "zk-prefixer": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "Z"
+      }
+    ],
+    "daily-notes": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "T"
+      }
+    ],
+    "workspace:split-vertical": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "v"
+      }
+    ],
+    "editor:focus-left": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "-"
+      }
+    ],
+    "editor:focus-right": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "="
+      }
+    ],
+    "backlink:open-backlinks": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "B"
+      }
+    ]
+  }
+}

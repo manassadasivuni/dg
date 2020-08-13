@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "_posts/2020-08-13-tok-journal-entry-1-gender-bias.md",
             "mode": "source"
           }
         }
@@ -88,10 +88,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-08-13-tok-journal-entry-1-gender-bias.md",
     "about.md",
     "tags.md",
     "index.md",
-    "404.md",
-    "_posts/Untitled.md"
+    "404.md"
   ]
 }

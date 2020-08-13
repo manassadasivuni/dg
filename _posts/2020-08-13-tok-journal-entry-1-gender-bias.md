@@ -14,4 +14,4 @@ This isn't much of a problem for the male half as their primary reason to travel
 
 One factor is that the physical locations of bus stands and metro stations are not near to other transport links that aid trip-chaining and the other is that lawmakers do not account for trip-chaining when setting up infrastructure. This is due to the fact that they are used to only thinking about the needs of men, treating women as an add-on with no special requirements.
 
-While the knowledge question will be difficult to answer accurately, due to male bias (regardless of your gender) it is one that must be accounted for as we build the future.
+While the knowledge question will be difficult to answer accurately, due to male bias (regardless of your gender) it is one that must be accounted for as we build the future. However, answering the question posed won't create significant change, implementing the answer and our findings will. This change will require conscious effort - necessary effort - to overcome our old patterns of thinking, of course.

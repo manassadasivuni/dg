@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-08-13-tok-journal-entry-1-gender-bias.md",
+            "file": "_posts/2020-08-13-0001-the-beginning.md",
             "mode": "source"
           }
         }
@@ -88,10 +88,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-08-13-0001-the-beginning.md",
+    "_posts/2020-08-12-the-extrovert-ideal.md",
     "_posts/2020-08-13-tok-journal-entry-1-gender-bias.md",
-    "about.md",
-    "tags.md",
-    "index.md",
-    "404.md"
+    "_posts/Untitled.md",
+    "about.md"
   ]
 }

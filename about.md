@@ -12,7 +12,9 @@ comments: false
 At the moment, I'm starting my first year in the IB Diploma Programme, taking Maths, Physics, and Economics as my Higher Level subjects. I'm also working on:
 
 1) Maintaining a regular content calendar for my [blog](https://manassadasivuni.com)
+
 2) Organising an MUN
+
 3) Learning how this entire digital garden thing works
 
 ## Talk to me ✨

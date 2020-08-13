@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tags.md",
+            "file": "about.md",
             "mode": "source"
           }
         }
@@ -88,9 +88,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "about.md",
     "tags.md",
     "index.md",
-    "about.md",
     "404.md",
     "_posts/Untitled.md"
   ]

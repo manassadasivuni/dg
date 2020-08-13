@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-08-12-the-extrovert-ideal.md",
+            "file": "tags.md",
             "mode": "source"
           }
         }
@@ -88,10 +88,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-08-12-the-extrovert-ideal.md",
     "tags.md",
-    "202007181335-extrovert-ideal.md",
-    "202008120807-tok-journal-entry-1-gender-bias.md",
-    "202008031019-invisible-women-introduction-the-default-male.md"
+    "index.md",
+    "about.md",
+    "404.md",
+    "_posts/Untitled.md"
   ]
 }

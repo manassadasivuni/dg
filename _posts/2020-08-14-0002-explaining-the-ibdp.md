@@ -71,7 +71,7 @@ Taking a subject from this subject group isn't mandatory, but to ensure you stil
 ### SL and HL
 Within each subject, there are a further two options: Standard Level and Higher Level. Some subjects will only have an SL version of them, such as Global Religions, but the vast majority of subjects have both. Half your subjects must be taken at Standard Level and the rest must be taken at Higher Level.
 
-As it sounds like, HL variants are much more difficult and challenging, but universities ted to look mainly for your HLs. For example, to study the BSc Finance at LSE, you need to get a 766 in your HL subjects, with a 7 in HL Maths. The universities will also have a requirement for the total umber of IB points, but more on the grading system later.
+As it sounds like, HL variants are much more difficult and challenging, but universities tend to look mainly for your HLs. For example, to study the BSc Finance at LSE, you need to get a 766 in your HL subjects, with a 7 in HL Maths. The universities will also have a requirement for the total number of IB points, but more on the grading system later.
 
 ### IAs
 IA stands for Internal Assessments. What they consist of varies for each subject, although the are usually a small research project or an experiment. They tend to account for 20% of your grade.

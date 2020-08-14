@@ -23,7 +23,7 @@ This is learning a foreign language, nothing special here. For the record, I tak
 ### Individuals and societies
 This is one of the more interesting subject groups and you could call it the humanities. It's made up of a wide variety of subjects (although not all schools offer each of them):
 
-- Business management
+- Business Management
 - Economics
 - Geography
 - Global Politics
@@ -34,7 +34,7 @@ This is one of the more interesting subject groups and you could call it the hum
 - Social and Cultural Anthropology
 - World Religions
 
-The subject names are fairly self-explanatory so I won't go into detail about what they contain. I take Business management and Economics.
+The subject names are fairly self-explanatory so I won't go into detail about what they contain. I take Business Management and Economics.
 
 ### Sciences
 Another one of the most interesting groups but it's not limited to the three "standard" sciences:
@@ -47,7 +47,7 @@ Another one of the most interesting groups but it's not limited to the three "st
 - Sports, exercise, and health science
 - Environmental systems and societies
 
-The only interesting part of this groups is Environmental systems and societies (ESS for short). It can be taken under the science section, but if you wanted to, you could take it under Individuals and societies as well. This means that it's technically a humanities as well as a scientific subject. From this group, I take Physics.
+The only interesting part of this groups is Environmental systems and societies (ESS for short). It can be taken under the science section, but if you wanted to, you could take it under Individuals and societies as well. This means that it's technically a humanities subject as well as a scientific subject. From this group, I take Physics.
 
 ### Mathematics
 There are two subcategories here:
@@ -71,10 +71,10 @@ Taking a subject from this subject group isn't mandatory, but to ensure you stil
 ### SL and HL
 Within each subject, there are a further two options: Standard Level and Higher Level. Some subjects will only have an SL version of them, such as Global Religions, but the vast majority of subjects have both. Half your subjects must be taken at Standard Level and the rest must be taken at Higher Level.
 
-As it sounds like, HL variants are much more difficult and challenging, but universities tend to look mainly for your HLs. For example, to study the BSc Finance at LSE, you need to get a 766 in your HL subjects, with a 7 in HL Maths. The universities will also have a requirement for the total number of IB points, but more on the grading system later.
+As it sounds like, HL variants are much more difficult and challenging, but universities tend to look mainly for your HLs. For example, to study the BSc Finance at LSE, you need to get a 766 in your HL subjects, with a 7 in HL Maths. The universities will also require a certain number of IB points, but more on the grading system later.
 
 ### IAs
-IA stands for Internal Assessments. What they consist of varies for each subject, although the are usually a small research project or an experiment. They tend to account for 20% of your grade.
+IA stands for Internal Assessments. What they consist of varies for each subject, although they are usually a small research project or an experiment. They tend to account for 20% of your grade.
 
 ## The three additional subjects
 ### TOK

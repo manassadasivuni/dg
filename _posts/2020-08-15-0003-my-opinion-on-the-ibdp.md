@@ -1,5 +1,5 @@
 ---
-title: 0003 -My Opinion on the IBDP
+title: 0003 - My Opinion on the IBDP
 published: true
 ---
 

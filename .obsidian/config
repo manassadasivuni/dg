@@ -156,7 +156,10 @@
     "seo",
     "colours",
     "curriculums",
-    "Theatre"
+    "Theatre",
+    "normalisation",
+    "modelled",
+    "personalised"
   ],
   "strictLineBreaks": true,
   "attachmentFolderPath": "Attachments",

@@ -6,11 +6,22 @@
       {
         "id": "63735397b43c656f",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "_posts/2020-08-14-0002-explaining-the-ibdp.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "451faf7ae5c11315",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2020-08-15-0003-my-opinion-on-the-ibdp.md",
             "mode": "source"
           }
         }
@@ -54,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "33e8834652949166",
@@ -88,10 +100,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-08-15-0003-my-opinion-on-the-ibdp.md",
     "_posts/2020-08-14-0002-explaining-the-ibdp.md",
-    "_posts/2020-08-12-the-extrovert-ideal.md",
+    "_posts/2020-08-15-0003-.md",
     "_posts/Untitled.md",
-    "_posts/2020-08-13-0001-the-beginning.md",
-    "_posts/2020-08-13-tok-journal-entry-1-gender-bias.md"
+    "_posts/2020-08-12-the-extrovert-ideal.md"
   ]
 }

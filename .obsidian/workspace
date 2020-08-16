@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "072b473ff915f2a9",
+        "id": "c39851cbb6900a5f",
         "type": "leaf",
         "active": true,
         "state": {
@@ -86,10 +86,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-08-14-0002-explaining-the-ibdp.md",
+    "_posts/2020-08-15-0004-solving-a-rubiks-cube.md",
+    "_posts/Untitled.md",
     "_posts/2020-08-15-0003-my-opinion-on-the-ibdp.md",
-    "_posts/2020-08-13-0001-the-beginning.md",
-    "_posts/2020-08-13-tok-journal-entry-1-gender-bias.md",
-    "_posts/2020-08-15-0003-.md"
+    "_posts/2020-08-14-0002-explaining-the-ibdp.md",
+    "_posts/2020-08-13-0001-the-beginning.md"
   ]
 }

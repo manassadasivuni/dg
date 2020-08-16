@@ -1,5 +1,6 @@
 ---
 title: 0002 - Explaining the IBDP
+tags: [1000 Words]
 published: true
 ---
 

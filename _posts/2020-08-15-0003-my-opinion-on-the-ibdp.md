@@ -1,5 +1,6 @@
 ---
 title: 0003 - My Opinion on the IBDP
+tags: [1000 Words]
 published: true
 ---
 

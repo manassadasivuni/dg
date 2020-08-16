@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2020-08-15-0004-solving-a-rubiks-cube-and-the-open-source-community.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -51,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "33e8834652949166",
@@ -86,10 +88,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-08-15-0004-solving-a-rubiks-cube-and-the-open-source-community.md",
     "_posts/2020-08-15-0004-solving-a-rubiks-cube.md",
     "_posts/Untitled.md",
     "_posts/2020-08-15-0003-my-opinion-on-the-ibdp.md",
-    "_posts/2020-08-14-0002-explaining-the-ibdp.md",
-    "_posts/2020-08-13-0001-the-beginning.md"
+    "_posts/2020-08-14-0002-explaining-the-ibdp.md"
   ]
 }

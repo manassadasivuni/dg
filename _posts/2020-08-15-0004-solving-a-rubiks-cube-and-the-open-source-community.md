@@ -1,5 +1,5 @@
 ---
-title: 0003 - Solving a Rubik's cube and the Open-Source Community
+title: 0004 - Solving a Rubik's cube and the Open-Source Community
 tags: [1000 Words]
 published: true
 ---

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-08-17-0005-python-scripts.md",
+            "file": "_posts/2020-08-18-0006-blogging.md",
             "mode": "source"
           }
         }
@@ -90,9 +90,9 @@
   },
   "lastOpenFiles": [
     "_posts/Untitled.md",
+    "_posts/2020-08-17-0005-python-scripts.md",
     "_posts/2020-08-16-0004-solving-a-rubiks-cube-and-the-open-source-community.md",
     "_posts/2020-08-15-0004-solving-a-rubiks-cube-and-the-open-source-community.md",
-    "_posts/2020-08-15-0004-solving-a-rubiks-cube.md",
-    "_posts/2020-08-15-0003-my-opinion-on-the-ibdp.md"
+    "_posts/2020-08-15-0004-solving-a-rubiks-cube.md"
   ]
 }

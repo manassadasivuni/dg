@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-08-18-0006-blogging.md",
+            "file": "_posts/2020-08-19-0007-the-digital-diet.md",
             "mode": "source"
           }
         }
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "33e8834652949166",
@@ -89,8 +88,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-08-18-0006-blogging.md",
     "_posts/Untitled.md",
+    "_posts/2020-08-18-0006-blogging.md",
     "_posts/2020-08-17-0005-python-scripts.md",
     "_posts/2020-08-16-0004-solving-a-rubiks-cube-and-the-open-source-community.md",
     "_posts/2020-08-15-0004-solving-a-rubiks-cube-and-the-open-source-community.md"

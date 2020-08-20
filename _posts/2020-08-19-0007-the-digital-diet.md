@@ -1,5 +1,5 @@
 ---
-title: 0006 - The Digital Diet
+title: 0007 - The Digital Diet
 tags: [1000 Words]
 published: true
 ---

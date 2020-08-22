@@ -177,7 +177,8 @@
     "IGCSEs",
     "customised",
     "cancelled",
-    "lofi"
+    "lofi",
+    "speedrun"
   ],
   "strictLineBreaks": true,
   "attachmentFolderPath": "Attachments",

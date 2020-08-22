@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-08-21-0009-online-school.md",
+            "file": "_posts/2020-08-22-0010-consistency.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-08-21-0009-online-school.md"
+                "file": "_posts/2020-08-22-0010-consistency.md"
               }
             }
           },
@@ -90,10 +90,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-08-22-0010-consistency.md",
+    "_posts/2020-08-22.md",
+    "_posts/2020-08-21-0009-online-school.md",
     "_posts/2020-08-21.md",
-    "_posts/2020-08-20-0008-music.md",
-    "_posts/Untitled.md",
-    "_posts/2020-08-19-0007-the-digital-diet.md",
-    "_posts/2020-08-18-0006-blogging.md"
+    "_posts/2020-08-20-0008-music.md"
   ]
 }

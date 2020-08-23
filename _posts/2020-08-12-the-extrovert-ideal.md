@@ -14,3 +14,5 @@ While extroversion can be an appealing lifestyle, the focus on it has created an
 Since we live in this Ideal, it makes sense that the systems we create reflect it. This can be seen in the way that classrooms are organised into "pods" where children can socialise while learning; the way our media salivates over outsized personalities and the drama they cause. The Extrovert Ideal is visible in the way we work: open-plan offices, team projects, employers who value social skills. In fact, not being an extrovert is likely to damage your career as it's expected that you must promote yourself relentlessly to even have the slightest chance at a promotion. 
 
 Of course, such an Ideal will have significant consequences, and also raises questions.
+
+<script async data-uid="d1d24df4c1" src="https://fantastic-artist-4905.ck.page/d1d24df4c1/index.js"></script>

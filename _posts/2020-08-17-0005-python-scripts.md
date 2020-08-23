@@ -74,3 +74,5 @@ So after a few hours of tinkering and learning how the hell you're meant to use 
 This isn't my first foray into Python. My first attempt was when I was 12 or 13 and I was following a book on how to use it but eventually lost interest. The same thing happened a few weeks ago and failed for the same reason. One of my programming friends recommended that I just pick a project and learn the language as I go and that's what I'm doing. I've found that it's a much more enjoyable way to learn as I'm not learning useless information just for the sake of knowing and learning what I need when I need it. It's like the difference between studying a textbook and finding a useful bit of information when you need it.
 
 If you have any tips or trick on how to use Python or ideas for scripts, please send them to me; it's fun to make them and it helps me get better at my programming.
+
+<script async data-uid="d1d24df4c1" src="https://fantastic-artist-4905.ck.page/d1d24df4c1/index.js"></script>

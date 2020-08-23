@@ -40,3 +40,5 @@ So, why are you still here? Shouldn’t you get started?
 ---
 
 This article is also published on my [main blog](https://manassadasivuni.com), a site where I write some of my other ramblings. Go check it out.
+
+<script async data-uid="d1d24df4c1" src="https://fantastic-artist-4905.ck.page/d1d24df4c1/index.js"></script>

@@ -23,3 +23,5 @@ Yes, this fear is genuine, but it can be overcome. Just start slow, or one proje
 Even if you have no experience with programming or anything tech related, you can still make your work public. A simple one is to use GitHub. If you have a book you're working on, or an album, you can store your files quite easily on GitHub for free. You're unlikely to get anyone to see what you've done, but you've taken the first step. After that's been done, announce your projects and publicise them like you only have one chance.
 
 In fact, this "notes" site is my attempt to work in public. It has less polished and less cohesive content than what I'd be able to put on my blog but that's okay. It'swhat I want it to be
+
+<script async data-uid="d1d24df4c1" src="https://fantastic-artist-4905.ck.page/d1d24df4c1/index.js"></script>

@@ -30,3 +30,5 @@ The education system is standardised. The same approach is taken when teaching e
 While going to school is mandatory in most countries, ensuring a child learns is not. Instead, they must pass through a few tests and they'll be moved up where they'll learn more difficult and intricate topics using a half-laid foundation. It is no surprise that schools do not function as well as they should. 
 
 Of course, taking a truly personalised approach is likely to be resource intensive and is unlikely to be feasible on a large-scale. For now, at least. 
+
+<script async data-uid="d1d24df4c1" src="https://fantastic-artist-4905.ck.page/d1d24df4c1/index.js"></script>

@@ -92,3 +92,5 @@ EE stands for the Extended Essay. This is a research paper with a maximum word l
 An important thing to keep in mind about the EE is that it's entirely student-driven. You have to go and approach your teachers for help, no one's going to make you do it. This is a recurring theme in the IB as a whole, for example in CAS, you have to find and take part in activities and most IAs require the student to plan it out themselves.
 
 I haven't talked about how the IBDP is graded, but I'll add that to tomorrow's post
+
+<script async data-uid="d1d24df4c1" src="https://fantastic-artist-4905.ck.page/d1d24df4c1/index.js"></script>

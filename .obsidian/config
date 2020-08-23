@@ -178,7 +178,9 @@
     "customised",
     "cancelled",
     "lofi",
-    "speedrun"
+    "speedrun",
+    "catalogue",
+    "autocompleting"
   ],
   "strictLineBreaks": true,
   "attachmentFolderPath": "Attachments",

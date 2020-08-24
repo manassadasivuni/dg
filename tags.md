@@ -1,8 +1,7 @@
 ---
-title: Tags
-permalink: /tags/
+title: Categories
+permalink: /categories/
 layout: page
-excerpt: Sorted article by tags.
 ---
 
 {% for tag in site.tags %} {% capture name %}{{ tag | first }}{% endcapture %}

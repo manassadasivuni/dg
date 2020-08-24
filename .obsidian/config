@@ -4,27 +4,27 @@
     "file-explorer": true,
     "global-search": true,
     "switcher": true,
-    "graph": true,
-    "backlink": true,
+    "graph": false,
+    "backlink": false,
     "command-palette": false,
     "markdown-importer": false,
     "word-count": true,
-    "custom-css": true,
+    "custom-css": false,
     "page-preview": true,
     "daily-notes": true,
     "random-note": true,
     "slides": false,
-    "audio-recorder": true,
-    "starred": true,
-    "open-with-default-app": true,
-    "zk-prefixer": true,
+    "audio-recorder": false,
+    "starred": false,
+    "open-with-default-app": false,
+    "zk-prefixer": false,
     "outline": false,
-    "tag-pane": true
+    "tag-pane": false
   },
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "foldHeading": true,
+  "foldHeading": false,
   "foldIndent": true,
   "spellcheck": true,
   "promptDelete": false,
@@ -186,15 +186,6 @@
   "attachmentFolderPath": "Attachments",
   "hotkeys": {
     "workspace:toggle-pin": [],
-    "zk-prefixer": [
-      {
-        "modifiers": [
-          "Mod",
-          "Shift"
-        ],
-        "key": "Z"
-      }
-    ],
     "daily-notes": [
       {
         "modifiers": [
@@ -228,15 +219,7 @@
         ],
         "key": "="
       }
-    ],
-    "backlink:open-backlinks": [
-      {
-        "modifiers": [
-          "Mod",
-          "Shift"
-        ],
-        "key": "B"
-      }
     ]
-  }
+  },
+  "useTab": false
 }

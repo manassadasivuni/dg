@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-08-24-0012-communities.md",
+            "file": "_posts/2020-08-25-0013-workflows.md",
             "mode": "source"
           }
         }
@@ -57,10 +57,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-08-25-0013-workflows.md",
+    "tags.md",
+    "_posts/2020-08-25.md",
     "_posts/2020-08-24-0012-communities.md",
-    "_posts/2020-08-22-0010-consistency.md",
-    "_posts/2020-08-24-0012.md",
-    "_posts/2020-08-19-0007-the-digital-diet.md",
-    "404.md"
+    "_posts/2020-08-22-0010-consistency.md"
   ]
 }

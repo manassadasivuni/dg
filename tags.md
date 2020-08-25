@@ -1,6 +1,6 @@
 ---
-title: Categories
-permalink: /categories/
+title: tags
+permalink: /tags/
 layout: page
 ---
 

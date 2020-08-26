@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-08-25-0013-workflows.md",
+            "file": "_posts/2020-08-26-0014-MUNs.md",
             "mode": "source"
           }
         }
@@ -57,10 +57,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-08-26.md",
     "_posts/2020-08-25-0013-workflows.md",
     "_posts/2020-08-24-0012-communities.md",
     "categories.md",
-    "tags.md",
-    "_posts/2020-08-25.md"
+    "tags.md"
   ]
 }

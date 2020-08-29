@@ -42,7 +42,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -57,10 +58,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-08-29-0016-breaks.md",
     "_posts/2020-08-30-0017-breaks.md",
     "_posts/2020-08-27-0015-routines.md",
     "_posts/2020-08-25-0013-workflows.md",
-    "_posts/2020-08-24-0012-communities.md",
-    "_posts/2020-08-22-0011-how-i-take-notes.md"
+    "_posts/2020-08-24-0012-communities.md"
   ]
 }

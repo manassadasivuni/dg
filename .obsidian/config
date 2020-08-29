@@ -180,7 +180,8 @@
     "lofi",
     "speedrun",
     "catalogue",
-    "autocompleting"
+    "autocompleting",
+    "intentionality"
   ],
   "strictLineBreaks": true,
   "attachmentFolderPath": "Attachments",

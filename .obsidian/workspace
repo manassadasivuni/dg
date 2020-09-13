@@ -7,14 +7,12 @@
         "id": "c39851cbb6900a5f",
         "type": "leaf",
         "active": true,
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-06-tok-journal-entry-2-tools.md",
+            "file": "_posts/2020-09-13-tok-journal-entry-3-the-logistical-map.md",
             "mode": "source"
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -41,15 +39,16 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "33e8834652949166",
@@ -60,10 +59,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-09-13.md",
+    "_posts/2020-09-06-tok-journal-entry-2-tools.md",
     "_posts/2020-09-06-0018-tok-journal-entry-2-building-your-own-workflows.md",
     "_posts/2020-08-13-tok-journal-entry-1-gender-bias.md",
-    "_posts/2020-08-30-0017-5am.md",
-    "_posts/2020-08-29-0016-breaks.md",
-    "_posts/2020-08-27-0015-routines.md"
+    "_posts/2020-08-30-0017-5am.md"
   ]
 }

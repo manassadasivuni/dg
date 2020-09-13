@@ -22,10 +22,15 @@ published: true
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML">
 </script>
 
+My third real-life situation is from a [video by Veritasium](https://youtu.be/ovJcsL7vyrk) which talks about how the equation below connects a leaky tap, a population of rabbits and the Mandelbrot set.
+
 $$
-\begin{align}
-	\frac{\Delta y}{\Delta x}
-\end{align}
+\begin{equation*}
+	x_{n+1} = rx_{n} \; \left(1-x_{n}\right)
+\end{equation*}
 $$
 
-ADSFADAsd
+![Mandelbrot set](https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg)
+_The Mandelbrot set_
+
+This real-life situation clearly links to the mathematical area of knowledge as it is an equation that is able to model multiple aspects of our world. The reason that this equation is so interesting is because as the value of $r$ increases

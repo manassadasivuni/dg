@@ -23,9 +23,9 @@ published: true
 </script>
 
 $$
-\begin{test}
+\begin{align}
 	\frac{\Delta y}{\Delta x}
-\end{test}
+\end{align}
 $$
 
 ADSFADAsd

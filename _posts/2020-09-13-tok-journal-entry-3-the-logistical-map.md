@@ -4,5 +4,7 @@ tags: [TOK]
 published: true
 ---
 $$
-\frac{\Delta y}{\Delta x}
+\begin{frac}
+	\frac{\Delta y}{\Delta x}
+\end{frac}
 $$

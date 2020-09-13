@@ -41,7 +41,7 @@ To more recursions you take of the equation, the more you'll see it stabilise at
 
 ![Logistic map](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logistic_Bifurcation_map_High_Resolution.png/1200px-Logistic_Bifurcation_map_High_Resolution.png)
 
-This means that the population stabilises not at _one single point, but two_. This splits up one again into four different points and continues to double. Once $r = 3.57$, there's no stable population and chaos emerges. This is a useful property and was first used to generate (pseudo) randomness from computers.
+This means that the population stabilises not at _one single point, but two_. This splits up once again into four different points and continues to double. Once $r = 3.57$, there's no stable population and chaos emerges. This is a useful property and was first used to generate (pseudo) randomness from computers.
 
 Going back to the Mandelbrot set I mentioned, the way these two relate is that the logistic map _is part of the Mandelbrot set_. To see this, we have to view the set using the z-axis which gives us this image:
 

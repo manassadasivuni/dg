@@ -37,7 +37,7 @@ This real-life situation clearly links to the mathematical area of knowledge as 
 
 Using the example of a rabbit population, the part $x_{n+1}$ refers to the change in population size as a percentage of the original, $x_{n}$, and $r$ is the growth rate. However, this equation would show that the population of rabbits skyrockets to infinity. To stop this, we have to use limiter $(1-x_{n})$ which multiplies $rx_{n}$ by a decimal to slow down its growth.
 
-To more recursions you take of the equation, the more you'll see it stabilise at a particular value regardless of the initial population. Since the initial population doesn't matter, the growth rate $r$ is where this gets interesting. In the lower values of $r$ the population will always go extinct but once $r = 1$, the population stabilises at a positive value. But once $r = 3$, the population begins to jump between two separate points. If you were to graph $r$ against $x{n+1}$, you'd get this:
+To more recursions you take of the equation, the more you'll see it stabilise at a particular value regardless of the initial population. Since the initial population doesn't matter, the growth rate $r$ is where this gets interesting. In the lower values of $r$ the population will always go extinct but once $r = 1$, the population stabilises at a positive value. But once $r = 3$, the population begins to jump between two separate points. If you were to graph $r$ against $x_{n+1}$, you'd get this:
 
 ![Logistic map](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logistic_Bifurcation_map_High_Resolution.png/1200px-Logistic_Bifurcation_map_High_Resolution.png)
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-13-tok-journal-entry-3-the-logistical-map.md",
+            "file": "_posts/2020-08-16-0004-solving-a-rubiks-cube-and-the-open-source-community.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "33e8834652949166",
@@ -60,6 +59,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-08-16-0004-solving-a-rubiks-cube-and-the-open-source-community.md",
     "_posts/2020-09-13-tok-journal-entry-3-the-logistical-map.md",
     "_posts/2020-09-13.md",
     "_posts/2020-09-06-tok-journal-entry-2-tools.md",

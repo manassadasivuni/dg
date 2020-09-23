@@ -52,3 +52,5 @@ These unexpected relations have led me to the knowledge question, "To what exten
 At the same time, math is widely used in all professions and is used extensively to create models or create products. Due to this, we have the potential ability to describe everything using a combination of numbers and algebra and could argue that math describes everything around us.
 
 These two polar opposite arguments mean that your answer to this question is highly variable upon your view of the origin of mathematics. I personally feel that math is a useful tool to interpret our surroundings, but also that it shouldn't be used to describe everything as there are aspects like emotions that cannot be quantified and attempting to do so would create a flawed model and would be counterintuitive.
+
+<script async data-uid="d1d24df4c1" src="https://fantastic-artist-4905.ck.page/d1d24df4c1/index.js"></script>

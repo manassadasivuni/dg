@@ -17,3 +17,11 @@ In addition to gaining tips for chairing, I collaborated with my other Executive
 During the actual event, I had to stimulate the debate quite frequently as the delegates were not speaking or challenging each other. This was quite challenging as I lacked experience. To add to this, the most experienced member of my executive board was unable to attend parts of the MUN due to prior commitments.
 
 I feel that this was not the best example on how to effectively manage a debate as there was limited conflict between delegates which is not representative of the average MUN. That being said, it is better than having no experience.
+
+---
+
+![](https://notes.manassadasivuni.com/assets/img/flamun/UNW.png)
+Photo taken during committee, I'm in the top-right corner
+
+![](https://notes.manassadasivuni.com/assets/img/flamun/Instagram%20post.png)
+Their post on Instagram. The original post can be viewed here: [https://www.instagram.com/p/CFNBP72MAwy/](https://www.instagram.com/p/CFNBP72MAwy/)

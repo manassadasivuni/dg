@@ -4,7 +4,7 @@
     "file-explorer": true,
     "global-search": true,
     "switcher": true,
-    "graph": false,
+    "graph": true,
     "backlink": false,
     "command-palette": false,
     "markdown-importer": false,

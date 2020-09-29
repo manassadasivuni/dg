@@ -16,4 +16,4 @@ In addition to gaining tips for chairing, I collaborated with my other Executive
 
 During the actual event, I had to stimulate the debate quite frequently as the delegates were not speaking or challenging each other. This was quite challenging as I lacked experience. To add to this, the most experienced member of my executive board was unable to attend parts of the MUN due to prior commitments.
 
-I feel that this was not the best example on how to effectively manage a debate as there was limited conflict between delegates which is not representative of the average MUN. That being said, it is better than having no experience
+I feel that this was not the best example on how to effectively manage a debate as there was limited conflict between delegates which is not representative of the average MUN. That being said, it is better than having no experience.

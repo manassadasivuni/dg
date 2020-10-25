@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-29-FLAMUN-CAS-Entry.md",
+            "file": "about.md",
             "mode": "source"
           }
         }
@@ -59,8 +59,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-09-29-FLAMUN-CAS-Entry.md",
     "about.md",
+    "_posts/2020-09-29-FLAMUN-CAS-Entry.md",
     "_posts/2020-09-29.md",
     "_posts/Untitled.md",
     "_posts/2020-08-29-0016-breaks.md",

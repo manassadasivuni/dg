@@ -226,5 +226,6 @@
       }
     ]
   },
-  "useTab": false
+  "useTab": false,
+  "enabledPlugins": []
 }

@@ -27,3 +27,5 @@ Photo taken during committee, I'm in the top-right corner
 Their post on Instagram. The original post can be viewed here: [https://www.instagram.com/p/CFNBP72MAwy/](https://www.instagram.com/p/CFNBP72MAwy/)
 
 > [Certificate](https://notes.manassadasivuni.com/assets/docs/FLAMUN/FLAMUN EB Certificate.pdf)
+
+<script async data-uid="d1d24df4c1" src="https://fantastic-artist-4905.ck.page/d1d24df4c1/index.js"></script>

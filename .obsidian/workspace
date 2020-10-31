@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c39851cbb6900a5f",
+        "id": "459d949b20bd670c",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2020-09-29-FLAMUN-CAS-Entry.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -48,7 +45,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "33e8834652949166",
@@ -59,15 +57,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-10-31-0018-time-capsule-1.md",
     "_posts/2020-09-29-FLAMUN-CAS-Entry.md",
+    "_posts/2020-09-13-tok-journal-entry-3-the-logistical-map.md",
+    "_posts/2020-09-06-tok-journal-entry-2-tools.md",
+    "_posts/2020-08-30-0017-5am.md",
+    "_posts/2020-10-31.md",
     "about.md",
     "_posts/2020-09-29.md",
     "_posts/Untitled.md",
-    "_posts/2020-08-29-0016-breaks.md",
-    "_posts/2020-08-30-0017-5am.md",
-    "_posts/2020-09-06-tok-journal-entry-2-tools.md",
-    "_posts/2020-09-13-tok-journal-entry-3-the-logistical-map.md",
-    "_posts/2020-08-16-0004-solving-a-rubiks-cube-and-the-open-source-community.md",
-    "_posts/2020-09-13.md"
+    "_posts/2020-08-29-0016-breaks.md"
   ]
 }
